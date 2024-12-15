@@ -9,4 +9,6 @@
 - use [Taup](https://www.seis.sc.edu/taup/) software
 
 ### cross-correlate
+$$
 R_{fg}[n] = \sum_{m=-\infty}^{\infty} f[m] \cdot g[m + n]
+$$
