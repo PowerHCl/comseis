@@ -1,0 +1,17 @@
+CI.NEE..BHZ.sac
+CN.INK..BHZ.sac
+CN.WHY..BHZ.sac
+G.HDC..BHZ.sac
+G.PEL..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.KDAK.00.BHZ.sac
+KN.AAK..BHZ.sac
+KN.AML..BHZ.sac
+KN.UCH..BHZ.sac
+KZ.VOS..BHZ.sac
+NM.SLM..BHZ.sac
+PS.SYO..BHZ.sac
+TW.TWGB..BHZ.sac
+US.HWUT..BHZ.sac
+US.WVOR..BHZ.sac

@@ -1,0 +1,13 @@
+CI.PHL..BHZ.sac
+GE.UGM..BHZ.sac
+II.ALE.00.BHZ.sac
+II.BFO.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.RAYN.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+IU.SBA.00.BHZ.sac
+MN.AQU..BHZ.sac
+MN.BNI..BHZ.sac
+PS.PSI..BHZ.sac
+TW.KMNB..BHZ.sac
+TW.NACB..BHZ.sac
