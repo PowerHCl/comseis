@@ -1,0 +1,7 @@
+CI.GSC..BHZ.sac
+CI.ISA..BHZ.sac
+CI.SVD..BHZ.sac
+CZ.DPC..BHZ.sac
+G.SCZ..BHZ.sac
+II.ALE.00.BHZ.sac
+PS.PSI..BHZ.sac

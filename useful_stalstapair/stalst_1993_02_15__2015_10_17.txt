@@ -1,0 +1,5 @@
+CI.GSC..BHZ.sac
+CI.ISA..BHZ.sac
+GR.GRA1..BHZ.sac
+II.ALE.00.BHZ.sac
+MN.AQU..BHZ.sac

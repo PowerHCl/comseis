@@ -1,0 +1,10 @@
+CI.GSC..BHZ.sac
+CI.NEE..BHZ.sac
+II.ABKT.00.BHZ.sac
+II.FFC.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.TLY.00.BHZ.sac
+LD.PAL..BHZ.sac
+PS.SYO..BHZ.sac
+US.OXF..BHZ.sac
+US.WMOK..BHZ.sac

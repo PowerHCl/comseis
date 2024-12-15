@@ -1,0 +1,6 @@
+CZ.DPC..BHZ.sac
+GR.GRA1..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.ERM.00.BHZ.sac
+II.OBN.00.BHZ.sac

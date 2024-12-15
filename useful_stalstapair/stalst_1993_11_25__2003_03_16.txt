@@ -1,0 +1,11 @@
+CI.USC..BHZ.sac
+CZ.DPC..BHZ.sac
+G.ATD..BHZ.sac
+G.CAN..BHZ.sac
+GR.GRA1..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ABKT.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.LVZ.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.TLY.00.BHZ.sac

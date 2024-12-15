@@ -1,0 +1,10 @@
+AZ.CRY..BHZ.sac
+AZ.RDM..BHZ.sac
+AZ.WMC..BHZ.sac
+CI.VTV..BHZ.sac
+CN.FRB..BHZ.sac
+CZ.DPC..BHZ.sac
+GR.GRA1..BHZ.sac
+II.AAK.00.BHZ.sac
+II.BRVK.00.BHZ.sac
+II.NIL.00.BHZ.sac

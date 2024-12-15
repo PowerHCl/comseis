@@ -1,0 +1,16 @@
+CI.GLA..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ABKT.00.BHZ.sac
+II.BRVK.00.BHZ.sac
+II.TLY.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+KN.AAK..BHZ.sac
+KN.AML..BHZ.sac
+KN.CHM..BHZ.sac
+KN.EKS2..BHZ.sac
+KN.KBK..BHZ.sac
+KN.KZA..BHZ.sac
+KN.TKM2..BHZ.sac
+KN.UCH..BHZ.sac
+KN.ULHL..BHZ.sac
+PS.SYO..BHZ.sac

@@ -1,0 +1,11 @@
+CI.GSC..BHZ.sac
+CI.MLAC..BHZ.sac
+CI.PAS..BHZ.sac
+CI.USC..BHZ.sac
+G.ATD..BHZ.sac
+G.CAN..BHZ.sac
+G.NOUC..BHZ.sac
+II.FFC.00.BHZ.sac
+II.TLY.00.BHZ.sac
+PS.SYO..BHZ.sac
+US.TPNV..BHZ.sac

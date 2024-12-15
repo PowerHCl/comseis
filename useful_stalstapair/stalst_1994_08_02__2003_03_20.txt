@@ -1,0 +1,13 @@
+CI.GLA..BHZ.sac
+CI.MLAC..BHZ.sac
+CI.NEE..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ABKT.00.BHZ.sac
+II.FFC.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+KN.AAK..BHZ.sac
+KN.AML..BHZ.sac
+KN.CHM..BHZ.sac
+KN.EKS2..BHZ.sac
+KN.UCH..BHZ.sac
+KN.USP..BHZ.sac

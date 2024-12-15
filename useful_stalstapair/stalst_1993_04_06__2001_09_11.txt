@@ -1,0 +1,12 @@
+CN.FRB..BHZ.sac
+CZ.DPC..BHZ.sac
+GR.GRA1..BHZ.sac
+G.SSB..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.ERM.00.BHZ.sac
+II.OBN.00.BHZ.sac
+MN.AQU..BHZ.sac
+US.DUG..BHZ.sac
+US.GOGA..BHZ.sac
+US.MIAR..BHZ.sac

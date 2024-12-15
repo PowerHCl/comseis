@@ -1,0 +1,7 @@
+CI.BAR..BHZ.sac
+CI.MLAC..BHZ.sac
+CI.PAS..BHZ.sac
+CI.VTV..BHZ.sac
+G.SSB..BHZ.sac
+II.ALE.00.BHZ.sac
+II.TLY.00.BHZ.sac

@@ -1,0 +1,14 @@
+CN.FRB..BHZ.sac
+CN.YKW3..BHZ.sac
+GR.GRA1..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.ESK.00.BHZ.sac
+II.FFC.00.BHZ.sac
+II.TLY.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+KN.CHM..BHZ.sac
+KZ.ZRN..BHZ.sac
+PS.OGS..BHZ.sac
+PS.TSK..BHZ.sac
+US.NEW..BHZ.sac

@@ -1,0 +1,14 @@
+CI.DGR..BHZ.sac
+CI.GSC..BHZ.sac
+CN.YKW3..BHZ.sac
+CZ.DPC..BHZ.sac
+G.NOUC..BHZ.sac
+GR.GRA1..BHZ.sac
+G.SCZ..BHZ.sac
+G.UNM..BHZ.sac
+II.ALE.00.BHZ.sac
+II.BRVK.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+KN.AML..BHZ.sac
+KN.EKS2..BHZ.sac
+KN.UCH..BHZ.sac

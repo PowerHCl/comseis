@@ -1,0 +1,6 @@
+CI.ISA..BHZ.sac
+CN.GAC..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ERM.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.RPN.00.BHZ.sac

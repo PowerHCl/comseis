@@ -1,0 +1,12 @@
+CI.GSC..BHZ.sac
+GR.GRA1..BHZ.sac
+G.SCZ..BHZ.sac
+IC.XAN..BHZ.sac
+II.ALE.00.BHZ.sac
+IU.CTAO..BHZ.sac
+IU.MAJO..BHZ.sac
+IU.RAR..BHZ.sac
+IU.YSS..BHZ.sac
+MN.AQU..BHZ.sac
+PS.SYO..BHZ.sac
+US.TPNV..BHZ.sac

@@ -1,0 +1,5 @@
+CI.GSC..BHZ.sac
+II.ALE.00.BHZ.sac
+II.OBN.00.BHZ.sac
+KN.AAK..BHZ.sac
+KN.CHM..BHZ.sac

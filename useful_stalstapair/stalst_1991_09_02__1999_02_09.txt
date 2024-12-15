@@ -1,0 +1,9 @@
+CI.GSC..BHZ.sac
+GR.GRA1..BHZ.sac
+II.ERM.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.TLY.00.BHZ.sac
+IU.CCM..BHZ.sac
+IU.CTAO..BHZ.sac
+IU.MAJO..BHZ.sac
+PS.TSK..BHZ.sac

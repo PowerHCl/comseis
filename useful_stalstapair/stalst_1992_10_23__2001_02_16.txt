@@ -1,0 +1,6 @@
+G.CAN..BHZ.sac
+G.HYB..BHZ.sac
+G.UNM..BHZ.sac
+II.AAK.00.BHZ.sac
+II.OBN.00.BHZ.sac
+PS.OGS..BHZ.sac

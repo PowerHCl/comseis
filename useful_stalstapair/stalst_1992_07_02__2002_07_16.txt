@@ -1,0 +1,9 @@
+CI.GSC..BHZ.sac
+CI.PAS..BHZ.sac
+G.INU..BHZ.sac
+II.ERM.00.BHZ.sac
+II.OBN.00.BHZ.sac
+KN.AAK..BHZ.sac
+KN.EKS2..BHZ.sac
+KN.KBK..BHZ.sac
+KN.USP..BHZ.sac

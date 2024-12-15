@@ -1,0 +1,10 @@
+CI.GSC..BHZ.sac
+CZ.DPC..BHZ.sac
+G.INU..BHZ.sac
+GR.GRA1..BHZ.sac
+II.ALE.00.BHZ.sac
+II.OBN.00.BHZ.sac
+PS.OGS..BHZ.sac
+PS.TSK..BHZ.sac
+US.DUG..BHZ.sac
+US.MIAR..BHZ.sac

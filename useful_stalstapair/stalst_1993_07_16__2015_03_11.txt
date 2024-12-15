@@ -1,0 +1,7 @@
+CI.DGR..BHZ.sac
+CI.ISA..BHZ.sac
+CI.MLAC..BHZ.sac
+CI.SVD..BHZ.sac
+CN.GAC..BHZ.sac
+II.AAK.00.BHZ.sac
+MN.VSL..BHZ.sac

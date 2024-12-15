@@ -1,0 +1,17 @@
+CI.GSC..BHZ.sac
+CI.ISA..BHZ.sac
+CI.MLAC..BHZ.sac
+CN.FRB..BHZ.sac
+CZ.DPC..BHZ.sac
+GR.GRA1..BHZ.sac
+II.AAK.00.BHZ.sac
+II.ABKT.00.BHZ.sac
+II.ALE.00.BHZ.sac
+II.ERM.00.BHZ.sac
+II.FFC.00.BHZ.sac
+II.LVZ.00.BHZ.sac
+II.OBN.00.BHZ.sac
+II.TLY.00.BHZ.sac
+MN.VSL..BHZ.sac
+PS.SYO..BHZ.sac
+PS.TSK..BHZ.sac

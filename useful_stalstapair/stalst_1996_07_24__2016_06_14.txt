@@ -1,0 +1,17 @@
+CI.BAR..BHZ.sac
+CI.CWC..BHZ.sac
+CI.DGR..BHZ.sac
+CI.GSC..BHZ.sac
+CI.ISA..BHZ.sac
+CN.FRB..BHZ.sac
+CN.GAC..BHZ.sac
+CN.INK..BHZ.sac
+CN.WHY..BHZ.sac
+CZ.DPC..BHZ.sac
+II.ALE.00.BHZ.sac
+II.BRVK.00.BHZ.sac
+II.LVZ.00.BHZ.sac
+II.WRAB.00.BHZ.sac
+LD.PAL..BHZ.sac
+MN.VSL..BHZ.sac
+UW.GNW..BHZ.sac
